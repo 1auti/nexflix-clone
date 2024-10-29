@@ -24,6 +24,7 @@ Este proyecto es un clon de la interfaz de usuario de Netflix, desarrollado con 
 Antes de comenzar, asegúrate de tener instaladas las siguientes herramientas:
 - [Node.js](https://nodejs.org/)
 - [Angular CLI](https://angular.io/cli)
+- [API](https://www.themoviedb.org/)
 
 ## Instalación
 1. Clona el repositorio en tu máquina local:
